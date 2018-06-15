@@ -1,2 +1,9 @@
 # LocalSearchAlgorithms
-Implementation of AI local search algorithms with sample problems 
+Implementation of famous AI local search algorithms in both tree and graph modes:
+* Hill Climbing (Simple - First Choice - Stochastic - Random Restart)
+* Simulated Annealing (Variable cooling strategy)
+* Genetic
+## Sample modeled problems for algorithms:
+* Graph Coloring
+* Word Puzzle
+* Keyboard Making
